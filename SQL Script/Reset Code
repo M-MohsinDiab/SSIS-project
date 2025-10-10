@@ -1,0 +1,4 @@
+DROP TABLE
+	Agent_Workload, Skill_Proficiency_History, Service_Levels, IVR_Paths,
+	IVR_Menu_Nodes, Tickets, Recordings, Shifts, Calls, Agent_Skills,
+	Skills, Queues, Customers, Agents;
